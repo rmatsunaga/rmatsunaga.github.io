@@ -1,55 +1,43 @@
-# Your Name
+# Rey Matsunaga
 
-your.name@example.com
+reym@uw.edu
 
-http://www.example.com
+http://www.reymatsunaga.com
 
-http://www.linkedin.com/in/yourname
+http://www.linkedin.com/in/matsunagar
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Experienced software engineer with experience in front-end, back-end, and mobile technologies.
 
-# Work Experience (only last 10 years)
+# Work Experience
 
-## University Name 1 (City, State)
+***Software Engineer, Intern***- T-Mobile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 2019 - Present
+* Syncup IOT product  team
+* Designed, built, and presented proof of concept and MVP to VP of Product and Technology and CIO
+* Built secure backend with REST calls to let authorized users  find each other
+* Integrated REST API into mobile application components
+* Managing infrastructure with Azure Devops
+* *Xamarin, C#, Kotlin, Spring Boot, CosmosDB, Azure Devops*
 
-* [University 1][] description, particularly if not well-known.*
+***Software Engineer, Intern***- T-Mobile &nbsp;&nbsp;&nbsp;October 2018 - September 2019
+* Store Experience and Mobile Technologies team
+* Worked part time during the school year and full time during Summer
+* Participated in code reviews to ensure code maintained company's standards for clean, efficient code
+* Added logging features in iOS applications
+* Implemented security filters and caches for authentication in RESTful APIs
+* Built frontend web app features
+* Integrated API for iOS applications
+* *Objective-C, Swift, Java, SpringBoot, Docker, Alamofire, GemFire, Javascript, Jquery*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+# Languages and Technologies
+* **Languages:** Kotlin, Java, Swift, Javascript, Node.js, R, Objective-C, HTML5, CSS3
+* **Tools/Frameworks:**  Spring Boot, Alamofire, React.js, Bootstrap, Ajax, Express.js, MongoDB
+* **Software/IDE:** Git, IntelliJ, Visual Studio, Jquery, JGrasp, RStudio, XCode
 
-Summary of your role
+# Education
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu 
+University of Washington (2016 - 2020)
+- BA in Geography
+- Purple and Gold Scholarship ($26,000)
+- Dean’s List, 2017 Winter and Autumn
