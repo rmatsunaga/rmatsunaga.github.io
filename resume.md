@@ -1,16 +1,21 @@
 # Rey Matsunaga
 
+![GitHub Logo](images/profile.jpg)
+
+> Life is wild
+> let's get litty
+
 reym@uw.edu
 
 http://www.reymatsunaga.com
 
 http://www.linkedin.com/in/matsunagar
 
-# Summary
+## Summary
 
 Experienced software engineer with experience in front-end, back-end, and mobile technologies.
 
-# Work Experience
+## Work Experience
 
 ***Software Engineer, Intern***- T-Mobile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 2019 - Present
 * Syncup IOT product  team
@@ -30,12 +35,12 @@ Experienced software engineer with experience in front-end, back-end, and mobile
 * Integrated API for iOS applications
 * *Objective-C, Swift, Java, SpringBoot, Docker, Alamofire, GemFire, Javascript, Jquery*
 
-# Languages and Technologies
+## Languages and Technologies
 * **Languages:** Kotlin, Java, Swift, Javascript, Node.js, R, Objective-C, HTML5, CSS3
 * **Tools/Frameworks:**  Spring Boot, Alamofire, React.js, Bootstrap, Ajax, Express.js, MongoDB
 * **Software/IDE:** Git, IntelliJ, Visual Studio, Jquery, JGrasp, RStudio, XCode
 
-# Education
+## Education
 
 University of Washington (2016 - 2020)
 - BA in Geography
