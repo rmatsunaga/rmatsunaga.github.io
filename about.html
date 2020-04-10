@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Affordable and professional web design">
+    <meta name="keywords" content="web design, affordable web design, professional web design">
+    <meta name="author" content="Rey Matsunaga">
+    <title>Rey Matsunaga Freelance | About</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
+
+  </head>
+  <body>
+      <header class = "header">
+        <div class="container">
+          <div id="branding">
+            <h1><span class="highlight">Rey Matunsaga</span> Freelance</h1>
+          </div>
+          <nav>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li class = "current"><a href="about.html">About</a></li>
+              <li><a href="services.html">Services</a></li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+      <section id="newsletter">
+        <div class="container">
+          <h1>Subscribe to Our Newsletter</h1>
+          <form>
+            <input type="email" placeholder="Enter Email...">
+            <button type="submit" class="button_1">Subscribe</button>
+          </form>
+        </div>
+      </section>
+      <section id="main">
+        <div class="container">
+          <article id="main_call">
+              <h1 class="page-title">About Us</h1>
+              <p>
+                Rey Matsunaga is a senior at the University of Washington and recipient of the Purple and Gold Scholarship, currently working towards a degree in Geography with a focus in GIS.
+              </p>
+              <p>
+                Pursuing a career in the technology field, he spent a year in iOS and backend engineering at his internship at T-Mobile and has experience with front-end development using modern frameworks such as React. He is currently working on the backend and infrastructure at T-Mobile as well as delving into the open source community. With plans to learn more about machine learning, he is always interested in growing his knowledge and experience.
+              </p>
+              <p>
+                Coming from an international background of growing up in New York City, Tokyo, Japan, and, now, Seattle, he has a wide range of interests from community empowerment to dancing. He would like to use this background to give new perspectives and uses on technology as well as use technology to best serve these communities.
+              </p>
+          </article>
+          <aside id="sidebar">
+              <div class="dark">
+                <h3>What We Do</h3>
+                <p>
+                  Developing professional websites, applications, and web applications for businesses.
+                </p>
+              </div>
+          </aside>
+        </div>
+      </section>
+      <footer class = "footer">
+        <p>
+          Rey Matsunaga Freelance, Copyright &copy; 2020
+        </p>
+      </footer>
+      <script src="http://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous"> </script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+      <script>
+          window.sr = ScrollReveal();
+          sr.reveal('.header', {
+              duration: 2000,
+              origin: 'right',
+              distance: '100px'
+          });
+          sr.reveal('#newsletter', {
+              duration: 2000,
+              origin: 'left',
+              distance: '100px'
+          });
+          sr.reveal('#main', {
+              duration: 2000,
+              origin: 'right',
+              distance: '100px'
+          });
+          sr.reveal('.footer', {
+              duration: 2000,
+              origin: 'left',
+              distance: '100px'
+          });
+      </script>
+  </body>
+</html>
