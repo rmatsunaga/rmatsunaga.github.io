@@ -2,8 +2,7 @@
 
 ![GitHub Logo](images/profile.jpg)
 
-> Life is wild
-> let's get litty
+> "Hello! Welcome to my resume"
 
 reym@uw.edu
 
